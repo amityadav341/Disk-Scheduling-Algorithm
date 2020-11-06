@@ -77,4 +77,4 @@ int main()
       return 0;
     
 }
-Writer:- Amit yadav
+//Writer:- Amit yadav
